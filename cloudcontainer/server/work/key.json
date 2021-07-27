@@ -1,0 +1,6 @@
+{
+  "envId": "云开发环境ID",
+  "secretId": "腾讯云ID",
+  "secretKey": "腾讯云KEY",
+  "templateId": "订阅消息模版ID"
+}
